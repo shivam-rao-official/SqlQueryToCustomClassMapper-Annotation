@@ -18,7 +18,7 @@
 	<groupId>com.shivam</groupId>
 	<artifactId>customAnnotations</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>SqlQuery To Custom Class</name>
 	<description>Annotation for mapping Sql Query to the User given Mapper class based on the identifiers mentioned in @Column() annotation</description>
 
